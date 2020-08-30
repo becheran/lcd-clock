@@ -6,5 +6,5 @@
 *.lo
 *.o
 *.obj
-*.vscode
 
+.vscode/cpp_properties.json
